@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\bin\Debug\net6.0\Clases y objetos.exe
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\bin\Debug\net6.0\Clases y objetos.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\bin\Debug\net6.0\Clases y objetos.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\bin\Debug\net6.0\Clases y objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\bin\Debug\net6.0\Clases y objetos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\refint\Clases y objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\Clases y objetos.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Programacion Orientado a Objetos\obj\Debug\net6.0\ref\Clases y objetos.dll

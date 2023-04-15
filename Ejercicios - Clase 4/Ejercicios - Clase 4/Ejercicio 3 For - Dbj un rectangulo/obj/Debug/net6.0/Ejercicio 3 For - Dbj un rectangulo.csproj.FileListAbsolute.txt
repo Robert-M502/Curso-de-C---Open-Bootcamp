@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\bin\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.exe
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\bin\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\bin\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\bin\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\bin\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\refint\Ejercicio 3 For - Dbj un rectangulo.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\Ejercicio 3 For - Dbj un rectangulo.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 3 For - Dbj un rectangulo\obj\Debug\net6.0\ref\Ejercicio 3 For - Dbj un rectangulo.dll

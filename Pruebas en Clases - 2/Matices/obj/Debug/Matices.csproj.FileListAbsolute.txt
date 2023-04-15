@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\bin\Debug\Matices.exe.config
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\bin\Debug\Matices.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\bin\Debug\Matices.pdb
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\obj\Debug\Matices.csprojAssemblyReference.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\obj\Debug\Matices.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\obj\Debug\Matices.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Matices\obj\Debug\Matices.pdb

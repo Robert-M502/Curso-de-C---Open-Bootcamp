@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\bin\Debug\Deelegados.exe.config
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\bin\Debug\Deelegados.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\bin\Debug\Deelegados.pdb
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\obj\Debug\Delegados.csprojAssemblyReference.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\obj\Debug\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\obj\Debug\Deelegados.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Deelegados\obj\Debug\Deelegados.pdb

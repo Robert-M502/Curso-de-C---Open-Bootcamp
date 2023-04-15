@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\bin\Debug\Patrones de diseños.exe.config
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\bin\Debug\Patrones de diseños.exe
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\bin\Debug\Patrones de diseños.pdb
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\obj\Debug\Patrones de diseños.csproj.AssemblyReference.cache
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\obj\Debug\Patrones de diseños.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\obj\Debug\Patrones de diseños.exe
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Patrones de diseños\obj\Debug\Patrones de diseños.pdb

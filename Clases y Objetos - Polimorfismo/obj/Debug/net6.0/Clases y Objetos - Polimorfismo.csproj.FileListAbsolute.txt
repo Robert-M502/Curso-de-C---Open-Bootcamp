@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\bin\Debug\net6.0\Clases y Objetos - Polimorfismo.exe
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\bin\Debug\net6.0\Clases y Objetos - Polimorfismo.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\bin\Debug\net6.0\Clases y Objetos - Polimorfismo.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\bin\Debug\net6.0\Clases y Objetos - Polimorfismo.dll
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\bin\Debug\net6.0\Clases y Objetos - Polimorfismo.pdb
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.dll
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\refint\Clases y Objetos - Polimorfismo.dll
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.pdb
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\Clases y Objetos - Polimorfismo.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Polimorfismo\obj\Debug\net6.0\ref\Clases y Objetos - Polimorfismo.dll

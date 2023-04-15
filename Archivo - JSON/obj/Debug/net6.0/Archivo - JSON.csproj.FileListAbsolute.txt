@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\bin\Debug\net6.0\Archivo - JSON.exe
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\bin\Debug\net6.0\Archivo - JSON.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\bin\Debug\net6.0\Archivo - JSON.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\bin\Debug\net6.0\Archivo - JSON.dll
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\bin\Debug\net6.0\Archivo - JSON.pdb
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.dll
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\refint\Archivo - JSON.dll
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.pdb
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\Archivo - JSON.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Archivo - JSON\obj\Debug\net6.0\ref\Archivo - JSON.dll

@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\bin\Debug\net6.0\Clases y Objetos - Herencia.exe
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\bin\Debug\net6.0\Clases y Objetos - Herencia.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\bin\Debug\net6.0\Clases y Objetos - Herencia.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\bin\Debug\net6.0\Clases y Objetos - Herencia.dll
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\bin\Debug\net6.0\Clases y Objetos - Herencia.pdb
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.dll
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\refint\Clases y Objetos - Herencia.dll
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.pdb
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\Clases y Objetos - Herencia.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Clases y Objetos - Herencia\obj\Debug\net6.0\ref\Clases y Objetos - Herencia.dll

@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\bin\Debug\net6.0\Ejercicio 2 - Switch.exe
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\bin\Debug\net6.0\Ejercicio 2 - Switch.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\bin\Debug\net6.0\Ejercicio 2 - Switch.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\bin\Debug\net6.0\Ejercicio 2 - Switch.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\bin\Debug\net6.0\Ejercicio 2 - Switch.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\refint\Ejercicio 2 - Switch.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\Ejercicio 2 - Switch.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 2 - Switch\Ejercicio 2 - Switch\obj\Debug\net6.0\ref\Ejercicio 2 - Switch.dll

@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\bin\Debug\net6.0\Task - Programacion Asincrona.exe
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\bin\Debug\net6.0\Task - Programacion Asincrona.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\bin\Debug\net6.0\Task - Programacion Asincrona.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\bin\Debug\net6.0\Task - Programacion Asincrona.dll
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\bin\Debug\net6.0\Task - Programacion Asincrona.pdb
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.dll
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\refint\Task - Programacion Asincrona.dll
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.pdb
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\Task - Programacion Asincrona.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Task - Programacion Asincrona\obj\Debug\net6.0\ref\Task - Programacion Asincrona.dll

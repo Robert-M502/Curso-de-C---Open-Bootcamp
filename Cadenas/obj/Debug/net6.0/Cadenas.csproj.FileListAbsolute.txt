@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\bin\Debug\net6.0\Cadenas.exe
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\bin\Debug\net6.0\Cadenas.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\bin\Debug\net6.0\Cadenas.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\bin\Debug\net6.0\Cadenas.dll
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\bin\Debug\net6.0\Cadenas.pdb
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.dll
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\refint\Cadenas.dll
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.pdb
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\Cadenas.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Cadenas\obj\Debug\net6.0\ref\Cadenas.dll

@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\bin\Debug\Pruebas en Clases - 2.exe.config
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\bin\Debug\Pruebas en Clases - 2.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\bin\Debug\Pruebas en Clases - 2.pdb
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\obj\Debug\Pruebas en Clases - 2.csprojAssemblyReference.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\obj\Debug\Pruebas en Clases - 2.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\obj\Debug\Pruebas en Clases - 2.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Pruebas en Clases - 2\obj\Debug\Pruebas en Clases - 2.pdb

@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\obj\Debug\Sort y Complekidad.csprojAssemblyReference.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\obj\Debug\Sort y Complekidad.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\bin\Debug\Sort y Complekidad.exe.config
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\bin\Debug\Sort y Complekidad.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\bin\Debug\Sort y Complekidad.pdb
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\obj\Debug\Sort y Complekidad.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Sort y Complekidad\obj\Debug\Sort y Complekidad.pdb

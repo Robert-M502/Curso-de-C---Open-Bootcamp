@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\bin\Debug\net6.0\Metodos II.exe
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\bin\Debug\net6.0\Metodos II.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\bin\Debug\net6.0\Metodos II.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\bin\Debug\net6.0\Metodos II.dll
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\bin\Debug\net6.0\Metodos II.pdb
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.dll
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\refint\Metodos II.dll
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.pdb
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\Metodos II.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Metodos II\obj\Debug\net6.0\ref\Metodos II.dll

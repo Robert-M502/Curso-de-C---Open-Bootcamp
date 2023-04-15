@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Excepciones\obj\Debug\Excepciones.pdb

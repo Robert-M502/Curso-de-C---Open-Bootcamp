@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\bin\Debug\net6.0\Ejercicio 1 - If.exe
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\bin\Debug\net6.0\Ejercicio 1 - If.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\bin\Debug\net6.0\Ejercicio 1 - If.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\bin\Debug\net6.0\Ejercicio 1 - If.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\bin\Debug\net6.0\Ejercicio 1 - If.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\refint\Ejercicio 1 - If.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\Ejercicio 1 - If.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 5\Ejercicio 1 - If\Ejercicio 1 - If\obj\Debug\net6.0\ref\Ejercicio 1 - If.dll

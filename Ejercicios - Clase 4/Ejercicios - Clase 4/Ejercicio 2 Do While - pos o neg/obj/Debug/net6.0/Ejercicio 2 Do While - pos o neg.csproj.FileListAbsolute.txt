@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\bin\Debug\net6.0\Ejercicio 2 Do While - pos o neg.exe
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\bin\Debug\net6.0\Ejercicio 2 Do While - pos o neg.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\bin\Debug\net6.0\Ejercicio 2 Do While - pos o neg.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\bin\Debug\net6.0\Ejercicio 2 Do While - pos o neg.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\bin\Debug\net6.0\Ejercicio 2 Do While - pos o neg.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\refint\Ejercicio 2 Do While - pos o neg.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\Ejercicio 2 Do While - pos o neg.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejercicios - Clase 4\Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 2 Do While - pos o neg\obj\Debug\net6.0\ref\Ejercicio 2 Do While - pos o neg.dll

@@ -1,0 +1,4 @@
+Estoy escribiendo en miArchivo.text
+Otra lénea
+Añado esta línea
+Añado esta otra línea

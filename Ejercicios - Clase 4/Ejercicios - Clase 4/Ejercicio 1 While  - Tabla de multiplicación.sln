@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 1 While  - Tabla de multiplicación", "Ejercicio 1 While  - Tabla de multiplicación\Ejercicio 1 While  - Tabla de multiplicación.csproj", "{31BAEBD8-C5BB-428B-9EBC-A5348D7D3766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2 Do While - pos o neg", "Ejercicio 2 Do While - pos o neg\Ejercicio 2 Do While - pos o neg.csproj", "{E0407814-FE92-457A-AC21-03C343CE8DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 3 For - Dbj un rectangulo", "Ejercicio 3 For - Dbj un rectangulo\Ejercicio 3 For - Dbj un rectangulo.csproj", "{B4EF92A0-2F50-4763-83B8-FB2AE5C975D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BAEBD8-C5BB-428B-9EBC-A5348D7D3766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BAEBD8-C5BB-428B-9EBC-A5348D7D3766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BAEBD8-C5BB-428B-9EBC-A5348D7D3766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BAEBD8-C5BB-428B-9EBC-A5348D7D3766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0407814-FE92-457A-AC21-03C343CE8DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0407814-FE92-457A-AC21-03C343CE8DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0407814-FE92-457A-AC21-03C343CE8DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0407814-FE92-457A-AC21-03C343CE8DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EF92A0-2F50-4763-83B8-FB2AE5C975D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EF92A0-2F50-4763-83B8-FB2AE5C975D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EF92A0-2F50-4763-83B8-FB2AE5C975D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EF92A0-2F50-4763-83B8-FB2AE5C975D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BFB09E9-9674-438B-8570-538D52300C62}
+	EndGlobalSection
+EndGlobal

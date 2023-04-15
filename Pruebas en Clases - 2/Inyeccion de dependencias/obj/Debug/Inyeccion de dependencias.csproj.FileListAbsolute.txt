@@ -1,0 +1,78 @@
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Inyeccion de dependencias.exe.config
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Inyeccion de dependencias.exe
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Inyeccion de dependencias.pdb
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Hosting.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Buffers.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Memory.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Text.Json.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.ValueTuple.dll
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Hosting.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.EventLog.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Buffers.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Memory.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Text.Json.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\bin\Debug\System.ValueTuple.xml
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\obj\Debug\Inyeccion de dependencias.csproj.AssemblyReference.cache
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\obj\Debug\Inyeccion de dependencias.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\obj\Debug\Inyeccion de dependencias.csproj.CopyComplete
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\obj\Debug\Inyeccion de dependencias.exe
+C:\Users\rseba\OneDrive\Documentos\Curso de C#\Pruebas en Clases - 2\Inyeccion de dependencias\obj\Debug\Inyeccion de dependencias.pdb

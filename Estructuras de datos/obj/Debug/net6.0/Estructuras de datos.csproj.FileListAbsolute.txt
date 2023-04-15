@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.exe
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.dll
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\bin\Debug\net6.0\Estructuras de datos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.dll
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\refint\Estructuras de datos.dll
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\Estructuras de datos.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Estructuras de datos\obj\Debug\net6.0\ref\Estructuras de datos.dll

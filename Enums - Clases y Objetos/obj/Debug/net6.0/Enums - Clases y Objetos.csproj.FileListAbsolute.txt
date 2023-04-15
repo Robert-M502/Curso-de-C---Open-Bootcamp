@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\bin\Debug\net6.0\Enums - Clases y Objetos.exe
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\bin\Debug\net6.0\Enums - Clases y Objetos.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\bin\Debug\net6.0\Enums - Clases y Objetos.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\bin\Debug\net6.0\Enums - Clases y Objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\bin\Debug\net6.0\Enums - Clases y Objetos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\refint\Enums - Clases y Objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\Enums - Clases y Objetos.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Enums - Clases y Objetos\obj\Debug\net6.0\ref\Enums - Clases y Objetos.dll

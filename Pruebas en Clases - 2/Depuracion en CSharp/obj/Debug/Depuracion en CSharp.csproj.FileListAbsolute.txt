@@ -1,0 +1,7 @@
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\bin\Debug\Depuracion en CSharp.exe.config
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\bin\Debug\Depuracion en CSharp.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\bin\Debug\Depuracion en CSharp.pdb
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\obj\Debug\Depuracion en CSharp.csprojAssemblyReference.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\obj\Debug\Depuracion en CSharp.csproj.CoreCompileInputs.cache
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\obj\Debug\Depuracion en CSharp.exe
+C:\Users\rseba\OneDrive\Escritorio\Curso de C#\Pruebas en Clases - 2\Depuracion en CSharp\obj\Debug\Depuracion en CSharp.pdb

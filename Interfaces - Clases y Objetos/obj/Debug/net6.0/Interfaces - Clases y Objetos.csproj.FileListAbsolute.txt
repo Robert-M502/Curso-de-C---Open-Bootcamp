@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\bin\Debug\net6.0\Interfaces - Clases y Objetos.exe
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\bin\Debug\net6.0\Interfaces - Clases y Objetos.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\bin\Debug\net6.0\Interfaces - Clases y Objetos.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\bin\Debug\net6.0\Interfaces - Clases y Objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\bin\Debug\net6.0\Interfaces - Clases y Objetos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\refint\Interfaces - Clases y Objetos.dll
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.pdb
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\Interfaces - Clases y Objetos.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Interfaces - Clases y Objetos\obj\Debug\net6.0\ref\Interfaces - Clases y Objetos.dll

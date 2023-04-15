@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\bin\Debug\net6.0\Ejemplos de bucles.exe
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\bin\Debug\net6.0\Ejemplos de bucles.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\bin\Debug\net6.0\Ejemplos de bucles.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\bin\Debug\net6.0\Ejemplos de bucles.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\bin\Debug\net6.0\Ejemplos de bucles.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\refint\Ejemplos de bucles.dll
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.pdb
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\Ejemplos de bucles.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Ejemplos de bucles\obj\Debug\net6.0\ref\Ejemplos de bucles.dll

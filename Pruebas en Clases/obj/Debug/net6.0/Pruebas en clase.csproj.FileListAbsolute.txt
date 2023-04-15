@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\bin\Debug\net6.0\Pruebas en clase.exe
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\bin\Debug\net6.0\Pruebas en clase.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\bin\Debug\net6.0\Pruebas en clase.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\bin\Debug\net6.0\Pruebas en clase.dll
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\bin\Debug\net6.0\Pruebas en clase.pdb
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.dll
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\refint\Pruebas en clase.dll
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.pdb
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\Pruebas en clase.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Pruebas en clase\obj\Debug\net6.0\ref\Pruebas en clase.dll

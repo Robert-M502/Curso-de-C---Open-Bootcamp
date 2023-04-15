@@ -1,0 +1,15 @@
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\bin\Debug\net6.0\Operaciones matematicas.exe
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\bin\Debug\net6.0\Operaciones matematicas.deps.json
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\bin\Debug\net6.0\Operaciones matematicas.runtimeconfig.json
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\bin\Debug\net6.0\Operaciones matematicas.dll
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\bin\Debug\net6.0\Operaciones matematicas.pdb
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.csproj.AssemblyReference.cache
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.AssemblyInfoInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.AssemblyInfo.cs
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.csproj.CoreCompileInputs.cache
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.dll
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\refint\Operaciones matematicas.dll
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.pdb
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\Operaciones matematicas.genruntimeconfig.cache
+C:\Users\rmora\Desktop\Curso de C#\Operaciones matematicas\obj\Debug\net6.0\ref\Operaciones matematicas.dll
